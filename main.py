@@ -3,8 +3,9 @@ from vanna.chromadb import ChromaDB_VectorStore
 
 import pandas as pd
 import sqlite3
-
-openai_api = ''
+# Get the API key from environment variables
+api_key = os.getenv("OPEN_API_KEY")
+openai_api = api_key
 class MyVanna(ChromaDB_VectorStore, OpenAI_Chat):
     def __init__(self, config=None):
         ChromaDB_VectorStore.__init__(self, config=config)
