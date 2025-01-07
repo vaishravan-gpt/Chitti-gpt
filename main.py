@@ -18,7 +18,7 @@ vn = MyVanna(config={'api_key': openai_api, 'model': 'gpt-4o'})
 vn.connect_to_sqlite('retail_sales.db')
 
 from vanna.flask import VannaFlaskApp
-app = VannaFlaskApp(vn, allow_llm_to_see_data = True   logo = "http://172.232.71.153/static/med",
+app = VannaFlaskApp(vn, allow_llm_to_see_data = True,   logo = "http://172.232.71.153/static/media/chittiface.2e6bc68f5475c3761824.png",
     title = "Welcome to Chitti GPT",
     subtitle = "Your AI-powered copilot for SQL")
 app.run()
