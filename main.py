@@ -1,6 +1,8 @@
 from vanna.openai import OpenAI_Chat
 from vanna.chromadb import ChromaDB_VectorStore
 
+import os
+
 import pandas as pd
 import sqlite3
 # Get the API key from environment variables
