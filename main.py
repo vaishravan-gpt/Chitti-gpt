@@ -16,5 +16,5 @@ vn = MyVanna(config={'api_key': openai_api, 'model': 'gpt-4o'})
 vn.connect_to_sqlite('retail_sales.db')
 
 from vanna.flask import VannaFlaskApp
-app = VannaFlaskApp(vn, allow_llm_to_see_data: bool = True)
+app = VannaFlaskApp(vn, allow_llm_to_see_data = True)
 app.run()
