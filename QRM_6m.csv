@@ -1,0 +1,489 @@
+Month-Year,Product,Utility,Particulars,UOM,Bplan,Target,Actual,Bplan  Var %,Target  Var %,Plant
+Jun-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,53.66,37.72,29.50%,29.71%,Vapi
+Jun-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,53.66,68.38535263,-29.03%,-27.44%,Vapi
+Jun-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,1.733026074,2.09%,2.09%,Vapi
+Jun-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,5.99,5.91,-7.45%,1.34%,Vapi
+Jun-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,3.95,1.25%,1.25%,Vapi
+Jun-24,Towel,Power,Weaving,KWH/KG,1.17,1.2,1.215779716,-3.91%,-1.31%,Vapi
+Jun-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,0.92,0.932055121,-7.13%,-1.31%,Vapi
+Jun-24,Towel,Power,Processing,KWH/KG,0.94,0.94,1.01,-7.45%,-7.45%,Vapi
+Jun-24,Towel,Air,Weaving,CFM,8900,8900,9555.933333,-7.37%,-7.37%,Vapi
+Jun-24,Towel,Air,Processing,CFM,1000,1000,986.5666667,1.34%,1.34%,Vapi
+Jun-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,360.6666667,-3.05%,-3.05%,Vapi
+Jun-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,61.62,40.42166667,38.64%,34.40%,Vapi
+Jun-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.16,3.25,24.24%,-2.85%,Vapi
+Jun-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.54,2.620459553,26.18%,-3.17%,Vapi
+Jun-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,5.6,5.77,26.78%,-3.04%,Vapi
+Jun-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.8,4.766280304,9.04%,0.70%,Vapi
+Jun-24,Rugs,Power,Processing,KWH/SQM,0.29,0.42,0.36,-24.14%,14.29%,Vapi
+Jun-24,Rugs,Power,Cut & Sew,KWH/SQM,0.13,0.14,0.126987495,2.32%,9.29%,Vapi
+Jun-24,Rugs,Power,Coating,KWH/SQM,0.1,0.09,0.11005052,-10.05%,-22.28%,Vapi
+Jun-24,Rugs,Air,Rugs Total,CFM,850,850,902.8666667,-6.22%,-6.22%,Vapi
+Jun-24,Spinning,Power,Machine Production TFO,KWH,0.93,0.91,1.01,-8.60%,-10.99%,Vapi
+Jun-24,Spinning,Power,Machine Production w/o TFO,KWH,2.17,2.35,2.25,-3.69%,4.26%,Vapi
+Jun-24,Spinning,Air,Spinning Overall,CFM,3300,3300,4132.966667,-25.24%,-25.24%,Vapi
+Jun-24,Boiler,Air,Boiler,CFM,550,550,507.0666667,7.81%,7.81%,Vapi
+Jun-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,1.3,0.86,33.85%,33.85%,Anjar
+Jun-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0.9,1.03,-14.44%,-14.44%,Anjar
+Jun-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,33.5,32.68,2.45%,2.45%,Anjar
+Jun-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,1.1,0.61,44.55%,44.55%,Anjar
+Jun-24,Towel,Water Utility,Common,Ltr/Kg,7.74,7.74,5.53,28.55%,28.55%,Anjar
+Jun-24,Towel,Steam,Sizing,KG/KG,1.15,1.15,1.36,-18.26%,-18.26%,Anjar
+Jun-24,Towel,Steam,Processing,KG/KG,5.96,6.32,6.16,-3.36%,2.53%,Anjar
+Jun-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0.16,0.16,0.00%,0.00%,Anjar
+Jun-24,Towel,Steam,TFH,KG/KG,1.7,1.7,1.9197,-12.92%,-12.92%,Anjar
+Jun-24,Towel,Power,Weaving,KWH/KG,0.55,0.56,0.62,-12.73%,-10.71%,Anjar
+Jun-24,Towel,Power,Processing,KWH/KG,0.39,0.39,0.4,-2.56%,-2.56%,Anjar
+Jun-24,Towel,Power,Cut & Sew,KWH/KG,0.22,0.22,0.13,40.91%,40.91%,Anjar
+Jun-24,Towel,Power,Common,KWH/KG,0.25,0.25,0.25,0.00%,0.00%,Anjar
+Jun-24,Towel,Air,Weaving,CFM/Hrs,21320,21320,21941.972,-2.92%,-2.92%,Anjar
+Jun-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,482.2333333,-25.26%,-25.26%,Anjar
+Jun-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1581.466667,-0.09%,-0.09%,Anjar
+Jun-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1603.533333,-6.90%,-6.90%,Anjar
+Jun-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,6.15,3.8,38.21%,38.21%,Anjar
+Jun-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,2.1,1.87,10.95%,10.95%,Anjar
+Jun-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,40.04,36.75317526,8.21%,8.21%,Anjar
+Jun-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,2.5,1.424442757,43.02%,43.02%,Anjar
+Jun-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,14,12.95601989,7.46%,7.46%,Anjar
+Jun-24,Bedsheet,Steam,Weaving,KG/KG,0.13,0.13,20.24,-15469.23%,-15469.23%,Anjar
+Jun-24,Bedsheet,Steam,Sizing,KG/KG,1.9,1.9,1.83,3.68%,3.68%,Anjar
+Jun-24,Bedsheet,Steam,Processing,KG/KG,8.46,8.75,8.62,-1.89%,1.49%,Anjar
+Jun-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0.05,0.04,20.00%,20.00%,Anjar
+Jun-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0.3,0.28,6.67%,6.67%,Anjar
+Jun-24,Bedsheet,Steam,TFH,KG/KG,1.7,1.7,1.581589009,6.97%,6.97%,Anjar
+Jun-24,Bedsheet,Power,Weaving,KWH/Mtr,0.79,0.79,0.782641368,0.93%,0.93%,Anjar
+Jun-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0.2,0.19,5.00%,5.00%,Anjar
+Jun-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.33,0.33,0.13,60.61%,60.61%,Anjar
+Jun-24,Bedsheet,Power,Common,KWH/Mtr,0.24,0.24,0.23,4.17%,4.17%,Anjar
+Jun-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,28851.82933,-6.52%,-6.52%,Anjar
+Jun-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,366.6,7.19%,7.19%,Anjar
+Jun-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1760.333333,-8.66%,-8.66%,Anjar
+Jun-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,831.9,30.68%,30.68%,Anjar
+Jun-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.15,0.00%,0.00%,Anjar
+Jun-24,Spinning,Power,Open End,KWH/KG,1.27,1.27,1.26,0.79%,0.79%,Anjar
+Jun-24,Spinning,Power,Unit I & II,KWH/KG,5,5,4.92,1.60%,1.60%,Anjar
+Jun-24,Spinning,Power,Unit III,KWH/KG,11.61,11.61,11.4,1.81%,1.81%,Anjar
+Jun-24,Spinning,Air,Open End,CFM/Hrs,270,270,346.2666667,-28.25%,-28.25%,Anjar
+Jun-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2786.366667,10.12%,10.12%,Anjar
+Jun-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,3841.8,-4.40%,-4.40%,Anjar
+Jun-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Jun-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Jun-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,0,0.64,50.77%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0,1.29,-43.33%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,0,36.05,-7.61%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,0,0.82,25.45%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Common,Ltr/Kg,7.74,0,6.26,19.12%,0.00%,Anjar
+Jul-24,Towel,Steam,Sizing,KG/KG,1.15,0,1.33,-15.65%,0.00%,Anjar
+Jul-24,Towel,Steam,Processing,KG/KG,5.96,0,6.59,-10.57%,0.00%,Anjar
+Jul-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0,0.18,-12.50%,0.00%,Anjar
+Jul-24,Towel,Steam,TFH,KG/KG,1.71,1.71,1.9347,-13.14%,-13.14%,Anjar
+Jul-24,Towel,Power,Weaving,KWH/KG,0.57,0,0.65,-14.04%,0.00%,Anjar
+Jul-24,Towel,Power,Processing,KWH/KG,0.39,0,0.43,-10.26%,0.00%,Anjar
+Jul-24,Towel,Power,Cut & Sew,KWH/KG,0.28,0,0.21,25.00%,0.00%,Anjar
+Jul-24,Towel,Power,Common,KWH/KG,0.28,0,0.27,3.57%,0.00%,Anjar
+Jul-24,Towel,Air,Weaving,CFM/Hrs,21320,21320,22322.58677,-4.70%,-4.70%,Anjar
+Jul-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,462.9032258,-20.23%,-20.23%,Anjar
+Jul-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1569.064516,0.69%,0.69%,Anjar
+Jul-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1641.096774,-9.41%,-9.41%,Anjar
+Jul-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,0,3.79,38.37%,0.00%,Anjar
+Jul-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,0,1.83,12.86%,0.00%,Anjar
+Jul-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,0,40.42904764,-0.97%,0.00%,Anjar
+Jul-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,0,1.298164407,48.07%,0.00%,Anjar
+Jul-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,0,9.93258733,29.05%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,Weaving,KG/KG,0.13,0,20.75,-15861.54%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,Sizing,KG/KG,1.9,0,1.85,2.63%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,Processing,KG/KG,8.46,0,8.59,-1.54%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0,0.03,40.00%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0,0.23,23.33%,0.00%,Anjar
+Jul-24,Bedsheet,Steam,TFH,KG/KG,1.71,1.71,1.655251142,3.20%,3.20%,Anjar
+Jul-24,Bedsheet,Power,Weaving,KWH/Mtr,0.79,0,0.820160475,-3.82%,0.00%,Anjar
+Jul-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0,0.19,5.00%,0.00%,Anjar
+Jul-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.33,0.33,0.15,54.55%,54.55%,Anjar
+Jul-24,Bedsheet,Power,Common,KWH/Mtr,0.23,0.23,0.18,21.74%,21.74%,Anjar
+Jul-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,28513.1529,-5.27%,-5.27%,Anjar
+Jul-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,369.9354839,6.35%,6.35%,Anjar
+Jul-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1755.225806,-8.35%,-8.35%,Anjar
+Jul-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,781.2580645,34.90%,34.90%,Anjar
+Jul-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.17,-13.33%,-13.33%,Anjar
+Jul-24,Spinning,Power,Open End,KWH/KG,1.28,1.28,1.31,-2.34%,-2.34%,Anjar
+Jul-24,Spinning,Power,Unit I & II,KWH/KG,5.28,5.28,6.13,-16.10%,-16.10%,Anjar
+Jul-24,Spinning,Power,Unit III,KWH/KG,11.68,11.68,14.4,-23.29%,-23.29%,Anjar
+Jul-24,Spinning,Air,Open End,CFM/Hrs,270,270,382.9354839,-41.83%,-41.83%,Anjar
+Jul-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2822.322581,8.96%,8.96%,Anjar
+Jul-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,3867.354839,-5.09%,-5.09%,Anjar
+Jul-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Jul-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Jul-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Jul-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,52.56,36.83,31.16%,29.93%,Vapi
+Jul-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,52.56,66.08992078,-24.70%,-25.74%,Vapi
+Jul-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,1.977743777,-11.74%,-11.74%,Vapi
+Jul-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,6.21,6.07,-10.36%,2.25%,Vapi
+Jul-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,4.25,-6.25%,-6.25%,Vapi
+Jul-24,Towel,Power,Weaving,KWH/KG,1.17,1.2,1.167207775,0.24%,2.73%,Vapi
+Jul-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,0.89,0.841091688,3.32%,5.50%,Vapi
+Jul-24,Towel,Power,Processing,KWH/KG,0.94,0.94,1.02,-8.51%,-8.51%,Vapi
+Jul-24,Towel,Air,Weaving,CFM,8900,8900,9321.129032,-4.73%,-4.73%,Vapi
+Jul-24,Towel,Air,Processing,CFM,1000,1000,1038,-3.80%,-3.80%,Vapi
+Jul-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,371.2258065,-6.06%,-6.06%,Vapi
+Jul-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,56.4,37.70967742,42.76%,33.14%,Vapi
+Jul-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.16,4.01,6.53%,-26.90%,Vapi
+Jul-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.54,3.133370912,11.74%,-23.36%,Vapi
+Jul-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,5.6,7.09,10.03%,-26.61%,Vapi
+Jul-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.8,4.979287518,4.98%,-3.74%,Vapi
+Jul-24,Rugs,Power,Processing,KWH/SQM,0.32,0.37,0.42,-31.25%,-13.51%,Vapi
+Jul-24,Rugs,Power,Cut & Sew,KWH/SQM,0.14,0.13,0.125023008,10.70%,3.83%,Vapi
+Jul-24,Rugs,Power,Coating,KWH/SQM,0.11,0.1,0.099412552,9.62%,0.59%,Vapi
+Jul-24,Rugs,Air,Rugs Total,CFM,850,850,892.2258065,-4.97%,-4.97%,Vapi
+Jul-24,Spinning,Power,Machine Production TFO,KWH,0.93,1.01,0.99,-6.45%,1.98%,Vapi
+Jul-24,Spinning,Power,Machine Production w/o TFO,KWH,2.17,2.38,2.34,-7.83%,1.68%,Vapi
+Jul-24,Spinning,Air,Spinning Overall,CFM,3300,3300,3923.580645,-18.90%,-18.90%,Vapi
+Jul-24,Boiler,Air,Boiler,CFM,550,550,517.8387097,5.85%,5.85%,Vapi
+Aug-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,0,0.91,30.00%,0.00%,Anjar
+Aug-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0,1.16,-28.89%,0.00%,Anjar
+Aug-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,0,32.45,3.13%,0.00%,Anjar
+Aug-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,0,0.73,33.64%,0.00%,Anjar
+Aug-24,Towel,Water Utility,Common,Ltr/Kg,7.74,0,5.27,31.91%,0.00%,Anjar
+Aug-24,Towel,Steam,Sizing,KG/KG,1.15,0,1.36,-18.26%,0.00%,Anjar
+Aug-24,Towel,Steam,Processing,KG/KG,5.96,0,6.3,-5.70%,0.00%,Anjar
+Aug-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0,0.16,0.00%,0.00%,Anjar
+Aug-24,Towel,Steam,TFH,KG/KG,1.7,1.7,1.866,-9.76%,-9.76%,Anjar
+Aug-24,Towel,Power,Weaving,KWH/KG,0.56,0,0.65,-16.07%,0.00%,Anjar
+Aug-24,Towel,Power,Processing,KWH/KG,0.39,0,0.39,0.00%,0.00%,Anjar
+Aug-24,Towel,Power,Cut & Sew,KWH/KG,0.18,0,0.18,0.00%,0.00%,Anjar
+Aug-24,Towel,Power,Common,KWH/KG,0.26,0,0.24,7.69%,0.00%,Anjar
+Aug-24,Towel,Air,Weaving,CFM/Hrs,21320,21320,23592.71548,-10.66%,-10.66%,Anjar
+Aug-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,454.9354839,-18.17%,-18.17%,Anjar
+Aug-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1677.419355,-6.17%,-6.17%,Anjar
+Aug-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1732.548387,-15.50%,-15.50%,Anjar
+Aug-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,0,3.84,37.56%,0.00%,Anjar
+Aug-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,0,1.91,9.05%,0.00%,Anjar
+Aug-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,0,38.94616169,2.73%,0.00%,Anjar
+Aug-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,0,1.248141272,50.07%,0.00%,Anjar
+Aug-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,0,8.968060533,35.94%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,Weaving,KG/KG,0.13,0,24.11,-18446.15%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,Sizing,KG/KG,1.9,0,1.83,3.68%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,Processing,KG/KG,8.46,0,8.09,4.37%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0,0.03,40.00%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0,0.22,26.67%,0.00%,Anjar
+Aug-24,Bedsheet,Steam,TFH,KG/KG,1.7,1.7,1.569615148,7.67%,7.67%,Anjar
+Aug-24,Bedsheet,Power,Weaving,KWH/Mtr,0.75,0,0.831955905,-10.93%,0.00%,Anjar
+Aug-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0,0.19,5.00%,0.00%,Anjar
+Aug-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.29,0.29,0.13,55.17%,55.17%,Anjar
+Aug-24,Bedsheet,Power,Common,KWH/Mtr,0.3,0.3,0.15,50.00%,50.00%,Anjar
+Aug-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,29467.29258,-8.79%,-8.79%,Anjar
+Aug-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,360.2580645,8.80%,8.80%,Anjar
+Aug-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1803.483871,-11.33%,-11.33%,Anjar
+Aug-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,802.9032258,33.09%,33.09%,Anjar
+Aug-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.16,-6.67%,-6.67%,Anjar
+Aug-24,Spinning,Power,Open End,KWH/KG,1.28,1.28,1.22,4.69%,4.69%,Anjar
+Aug-24,Spinning,Power,Unit I & II,KWH/KG,5.28,5.28,5.41,-2.46%,-2.46%,Anjar
+Aug-24,Spinning,Power,Unit III,KWH/KG,11.68,11.68,12.77,-9.33%,-9.33%,Anjar
+Aug-24,Spinning,Air,Open End,CFM/Hrs,270,270,342.7,-26.93%,-26.93%,Anjar
+Aug-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2788.066667,10.06%,10.06%,Anjar
+Aug-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,3802.133333,-3.32%,-3.32%,Anjar
+Aug-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Aug-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Aug-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Aug-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,58.54,38.94,27.21%,33.48%,Vapi
+Aug-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,58.54,58.77072187,-10.89%,-0.39%,Vapi
+Aug-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,2.013021642,-13.73%,-13.73%,Vapi
+Aug-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,6.19,6.11,-11.09%,1.29%,Vapi
+Aug-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,4.42,-10.50%,-10.50%,Vapi
+Aug-24,Towel,Power,Weaving,KWH/KG,1.17,1.2,1.271686243,-8.69%,-5.97%,Vapi
+Aug-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,0.96,1.018713846,-17.09%,-6.12%,Vapi
+Aug-24,Towel,Power,Processing,KWH/KG,0.94,0.97,1.16,-23.40%,-19.59%,Vapi
+Aug-24,Towel,Air,Weaving,CFM,8900,8900,8614.741935,3.21%,3.21%,Vapi
+Aug-24,Towel,Air,Processing,CFM,1000,1000,1130.677419,-13.07%,-13.07%,Vapi
+Aug-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,373.0322581,-6.58%,-6.58%,Vapi
+Aug-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,59.16,37.32266667,43.35%,36.91%,Vapi
+Aug-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.16,3.33,22.38%,-5.38%,Vapi
+Aug-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.54,2.316537044,34.75%,8.80%,Vapi
+Aug-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,5.6,5.82,26.14%,-3.93%,Vapi
+Aug-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.8,4.311173687,17.73%,10.18%,Vapi
+Aug-24,Rugs,Power,Processing,KWH/SQM,0.28,0.32,0.39,-39.29%,-21.88%,Vapi
+Aug-24,Rugs,Power,Cut & Sew,KWH/SQM,0.13,0.12,0.132930189,-2.25%,-10.78%,Vapi
+Aug-24,Rugs,Power,Coating,KWH/SQM,0.09,0.09,0.101672441,-12.97%,-12.97%,Vapi
+Aug-24,Rugs,Air,Rugs Total,CFM,850,850,964.5666667,-13.48%,-13.48%,Vapi
+Aug-24,Spinning,Power,Machine Production TFO,KWH,0.93,1,1.13,-21.51%,-13.00%,Vapi
+Aug-24,Spinning,Power,Machine Production w/o TFO,KWH,2.02,2.24,2.35,-16.34%,-4.91%,Vapi
+Aug-24,Spinning,Air,Spinning Overall,CFM,3300,3300,3944.709677,-19.54%,-19.54%,Vapi
+Aug-24,Boiler,Air,Boiler,CFM,550,550,534.0645161,2.90%,2.90%,Vapi
+Sep-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,1.3,0.99,23.85%,23.85%,Anjar
+Sep-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0.9,1.12,-24.44%,-24.44%,Anjar
+Sep-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,33.37,32.2,3.88%,3.51%,Anjar
+Sep-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,1.1,0.36,67.27%,67.27%,Anjar
+Sep-24,Towel,Water Utility,Common,Ltr/Kg,7.74,7.74,4.86,37.21%,37.21%,Anjar
+Sep-24,Towel,Steam,Sizing,KG/KG,1.15,1.15,1.29,-12.17%,-12.17%,Anjar
+Sep-24,Towel,Steam,Processing,KG/KG,5.96,6.35,6.42,-7.72%,-1.10%,Anjar
+Sep-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0.16,0.15,6.25%,6.25%,Anjar
+Sep-24,Towel,Steam,TFH,KG/KG,1.98,1.98,1.8316,7.49%,7.49%,Anjar
+Sep-24,Towel,Power,Weaving,KWH/KG,0.56,0.56,0.59,-5.36%,-5.36%,Anjar
+Sep-24,Towel,Power,Processing,KWH/KG,0.39,0.39,0.39,0.00%,0.00%,Anjar
+Sep-24,Towel,Power,Cut & Sew,KWH/KG,0.13,0.13,0.13,0.00%,0.00%,Anjar
+Sep-24,Towel,Power,Common,KWH/KG,0.23,0.23,0.23,0.00%,0.00%,Anjar
+Sep-24,Towel,Air,Weaving,CFM/Hrs,21320,21320,24187.66233,-13.45%,-13.45%,Anjar
+Sep-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,484.8,-25.92%,-25.92%,Anjar
+Sep-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1718.966667,-8.80%,-8.80%,Anjar
+Sep-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1792.766667,-19.52%,-19.52%,Anjar
+Sep-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,6.15,3.65,40.65%,40.65%,Anjar
+Sep-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,2.1,1.73,17.62%,17.62%,Anjar
+Sep-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,40.04,40.09759452,-0.14%,-0.14%,Anjar
+Sep-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,2.5,0.572919392,77.08%,77.08%,Anjar
+Sep-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,14,7.786662037,44.38%,44.38%,Anjar
+Sep-24,Bedsheet,Steam,Sizing,KG/KG,1.9,1.9,1.84,3.16%,3.16%,Anjar
+Sep-24,Bedsheet,Steam,Processing,KG/KG,8.46,8.46,8.79,-3.90%,-3.90%,Anjar
+Sep-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0.05,0.03,40.00%,40.00%,Anjar
+Sep-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0.3,0.2,33.33%,33.33%,Anjar
+Sep-24,Bedsheet,Steam,TFH,KG/KG,2.21,2.21,1.428692829,35.35%,35.35%,Anjar
+Sep-24,Bedsheet,Power,Weaving,KWH/Mtr,0.73,0.73,0.757767747,-3.80%,-3.80%,Anjar
+Sep-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0.2,0.2,0.00%,0.00%,Anjar
+Sep-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.23,0.23,0.08,65.22%,65.22%,Anjar
+Sep-24,Bedsheet,Power,Common,KWH/Mtr,0.26,0.26,0.12,53.85%,53.85%,Anjar
+Sep-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,28972.29467,-6.96%,-6.96%,Anjar
+Sep-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,288.6333333,26.93%,26.93%,Anjar
+Sep-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1857.366667,-14.65%,-14.65%,Anjar
+Sep-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,808.4333333,32.63%,32.63%,Anjar
+Sep-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.14,6.67%,6.67%,Anjar
+Sep-24,Spinning,Power,Open End,KWH/KG,1.2,1.28,1.16,3.33%,9.38%,Anjar
+Sep-24,Spinning,Power,Unit I & II,KWH/KG,5.13,4.75,4.92,4.09%,-3.58%,Anjar
+Sep-24,Spinning,Power,Unit III,KWH/KG,10.75,11.08,10.92,-1.58%,1.44%,Anjar
+Sep-24,Spinning,Air,Open End,CFM/Hrs,270,270,330.9333333,-22.57%,-22.57%,Anjar
+Sep-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2833.8,8.59%,8.59%,Anjar
+Sep-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,3936.833333,-6.98%,-6.98%,Anjar
+Sep-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Sep-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Sep-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Sep-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,59.77,39.26,26.62%,34.31%,Vapi
+Sep-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,59.77,61.61696226,-16.26%,-3.09%,Vapi
+Sep-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,2.39403116,-35.26%,-35.26%,Vapi
+Sep-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,6.38,5.99,-8.91%,6.11%,Vapi
+Sep-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,4.73,-18.25%,-18.25%,Vapi
+Sep-24,Towel,Power,Weaving,KWH/KG,1.17,1.18,1.200704063,-2.62%,-1.75%,Vapi
+Sep-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,1.03,1.09449549,-25.80%,-6.26%,Vapi
+Sep-24,Towel,Power,Processing,KWH/KG,0.94,0.95,1.08,-14.89%,-13.68%,Vapi
+Sep-24,Towel,Air,Weaving,CFM,8900,8900,8949.5,-0.56%,-0.56%,Vapi
+Sep-24,Towel,Air,Processing,CFM,1000,1000,1112.533333,-11.25%,-11.25%,Vapi
+Sep-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,396.6333333,-13.32%,-13.32%,Vapi
+Sep-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,54.09,32.55433333,50.59%,39.81%,Vapi
+Sep-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.47,3.12,27.27%,10.09%,Vapi
+Sep-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.59,2.326775823,34.46%,10.16%,Vapi
+Sep-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,6.3,5.66,28.17%,10.16%,Vapi
+Sep-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.28,3.816500232,27.17%,10.83%,Vapi
+Sep-24,Rugs,Power,Processing,KWH/SQM,0.3,0.33,0.39,-30.00%,-18.18%,Vapi
+Sep-24,Rugs,Power,Cut & Sew,KWH/SQM,0.13,0.13,0.120737541,7.12%,7.12%,Vapi
+Sep-24,Rugs,Power,Coating,KWH/SQM,0.1,0.09,0.107143285,-7.14%,-19.05%,Vapi
+Sep-24,Rugs,Air,Rugs Total,CFM,850,850,962.9666667,-13.29%,-13.29%,Vapi
+Sep-24,Spinning,Power,Machine Production TFO,KWH,0.93,1.13,1.02,-9.68%,9.73%,Vapi
+Sep-24,Spinning,Power,Machine Production w/o TFO,KWH,2.02,2.17,2.36,-16.83%,-8.76%,Vapi
+Sep-24,Spinning,Air,Spinning Overall,CFM,3300,3300,3663.733333,-11.02%,-11.02%,Vapi
+Sep-24,Boiler,Air,Boiler,CFM,550,550,547.5333333,0.45%,0.45%,Vapi
+Oct-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,1.3,1.33,-2.31%,-2.31%,Anjar
+Oct-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0.9,1.26,-40.00%,-40.00%,Anjar
+Oct-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,33.23,34.29,-2.36%,-3.19%,Anjar
+Oct-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,1.1,0.39,64.55%,64.55%,Anjar
+Oct-24,Towel,Water Utility,Common,Ltr/Kg,7.74,7.74,5.51,28.81%,28.81%,Anjar
+Oct-24,Towel,Steam,Sizing,KG/KG,1.15,1.15,1.41,-22.61%,-22.61%,Anjar
+Oct-24,Towel,Steam,Processing,KG/KG,5.96,6.12,6.31,-5.87%,-3.10%,Anjar
+Oct-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0.16,0.17,-6.25%,-6.25%,Anjar
+Oct-24,Towel,Steam,TFH,KG/KG,1.98,1.98,1.9325,2.40%,2.40%,Anjar
+Oct-24,Towel,Power,Weaving,KWH/KG,0.6,0.64,0.75,-25.00%,-17.19%,Anjar
+Oct-24,Towel,Power,Processing,KWH/KG,0.39,0.39,0.4,-2.56%,-2.56%,Anjar
+Oct-24,Towel,Power,Cut & Sew,KWH/KG,0.13,0.13,0.13,0.00%,0.00%,Anjar
+Oct-24,Towel,Power,Common,KWH/KG,0.26,0.26,0.27,-3.85%,-3.85%,Anjar
+Oct-24,Towel,Air,Weaving,CFM/Hrs,25449,25449,24371.4969,4.23%,4.23%,Anjar
+Oct-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,490,-27.27%,-27.27%,Anjar
+Oct-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1685.448276,-6.67%,-6.67%,Anjar
+Oct-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1778.517241,-18.57%,-18.57%,Anjar
+Oct-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,6.15,4.36,29.11%,29.11%,Anjar
+Oct-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,2.1,1.8,14.29%,14.29%,Anjar
+Oct-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,46.39,45.250947,-13.01%,2.46%,Anjar
+Oct-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,2.5,0.806127215,67.75%,67.75%,Anjar
+Oct-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,14,11.37985796,18.72%,18.72%,Anjar
+Oct-24,Bedsheet,Steam,Sizing,KG/KG,1.9,1.9,1.89,0.53%,0.53%,Anjar
+Oct-24,Bedsheet,Steam,Processing,KG/KG,8.46,9.67,10.03,-18.56%,-3.72%,Anjar
+Oct-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0.05,0.04,20.00%,20.00%,Anjar
+Oct-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0.3,0.28,6.67%,6.67%,Anjar
+Oct-24,Bedsheet,Steam,TFH,KG/KG,2.21,2.21,1.606156842,27.32%,27.32%,Anjar
+Oct-24,Bedsheet,Power,Weaving,KWH/Mtr,0.72,0.74,0.884802468,-22.89%,-19.57%,Anjar
+Oct-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0.2,0.21,-5.00%,-5.00%,Anjar
+Oct-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.21,0.21,0.1,52.38%,52.38%,Anjar
+Oct-24,Bedsheet,Power,Common,KWH/Mtr,0.24,0.21,0.18,25.00%,14.29%,Anjar
+Oct-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,26944.24759,0.53%,0.53%,Anjar
+Oct-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,265.8275862,32.70%,32.70%,Anjar
+Oct-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1823.206897,-12.54%,-12.54%,Anjar
+Oct-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,741.1724138,38.24%,38.24%,Anjar
+Oct-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.14,6.67%,6.67%,Anjar
+Oct-24,Spinning,Power,Open End,KWH/KG,1.19,1.26,1.19,0.00%,5.56%,Anjar
+Oct-24,Spinning,Power,Unit I & II,KWH/KG,4.99,4.82,5.09,-2.00%,-5.60%,Anjar
+Oct-24,Spinning,Power,Unit III,KWH/KG,10.58,10.91,10.39,1.80%,4.77%,Anjar
+Oct-24,Spinning,Air,Open End,CFM/Hrs,270,270,329,-21.85%,-21.85%,Anjar
+Oct-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2737.655172,11.69%,11.69%,Anjar
+Oct-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,3961.310345,-7.64%,-7.64%,Anjar
+Oct-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Oct-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Oct-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Oct-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,57.64,40.53,24.24%,29.68%,Vapi
+Oct-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,57.64,60.63189642,-14.40%,-5.19%,Vapi
+Oct-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,2.047824348,-15.70%,-15.70%,Vapi
+Oct-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,5.94,5.86,-6.55%,1.35%,Vapi
+Oct-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,4.67,-16.75%,-16.75%,Vapi
+Oct-24,Towel,Power,Weaving,KWH/KG,1.17,1.19,1.18057126,-0.90%,0.79%,Vapi
+Oct-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,1.05,1.204495059,-38.45%,-14.71%,Vapi
+Oct-24,Towel,Power,Processing,KWH/KG,0.94,0.98,1.16,-23.40%,-18.37%,Vapi
+Oct-24,Towel,Air,Weaving,CFM,8900,8900,9125.827586,-2.54%,-2.54%,Vapi
+Oct-24,Towel,Air,Processing,CFM,1000,1000,1239.655172,-23.97%,-23.97%,Vapi
+Oct-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,426.9655172,-21.99%,-21.99%,Vapi
+Oct-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,59.04,32.02633333,51.39%,45.75%,Vapi
+Oct-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.33,2.93,31.70%,12.01%,Vapi
+Oct-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.68,2.363030383,33.44%,11.83%,Vapi
+Oct-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,6.26,5.52,29.95%,11.82%,Vapi
+Oct-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.58,4.008339978,23.50%,12.48%,Vapi
+Oct-24,Rugs,Power,Processing,KWH/SQM,0.3,0.37,0.41,-36.67%,-10.81%,Vapi
+Oct-24,Rugs,Power,Cut & Sew,KWH/SQM,0.13,0.14,0.128587454,1.09%,8.15%,Vapi
+Oct-24,Rugs,Power,Coating,KWH/SQM,0.1,0.1,0.121862384,-21.86%,-21.86%,Vapi
+Oct-24,Rugs,Air,Rugs Total,CFM,850,850,974.1333333,-14.60%,-14.60%,Vapi
+Oct-24,Spinning,Power,Machine Production TFO,KWH,0.93,1.12,1.06,-13.98%,5.36%,Vapi
+Oct-24,Spinning,Power,Machine Production w/o TFO,KWH,2.02,2.22,2.2,-8.91%,0.90%,Vapi
+Oct-24,Spinning,Air,Spinning Overall,CFM,3300,3300,4141.37931,-25.50%,-25.50%,Vapi
+Oct-24,Boiler,Air,Boiler,CFM,550,550,546.8965517,0.56%,0.56%,Vapi
+Nov-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,1.3,1.5,-15.38%,-15.38%,Anjar
+Nov-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0.9,1.01,-12.22%,-12.22%,Anjar
+Nov-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,33.5,37.15,-10.90%,-10.90%,Anjar
+Nov-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,1.1,0.43,60.91%,60.91%,Anjar
+Nov-24,Towel,Water Utility,Common,Ltr/Kg,7.74,7.74,7.09,8.40%,8.40%,Anjar
+Nov-24,Towel,Steam,Sizing,KG/KG,1.15,1.16,1.39,-20.87%,-19.83%,Anjar
+Nov-24,Towel,Steam,Processing,KG/KG,5.96,6.24,7.09,-18.96%,-13.62%,Anjar
+Nov-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0.16,0.22,-37.50%,-37.50%,Anjar
+Nov-24,Towel,Steam,TFH,KG/KG,1.98,1.98,2.1641,-9.30%,-9.30%,Anjar
+Nov-24,Towel,Power,Weaving,KWH/KG,0.57,0.61,0.68,-19.30%,-11.48%,Anjar
+Nov-24,Towel,Power,Processing,KWH/KG,0.39,0.4,0.49,-25.64%,-22.50%,Anjar
+Nov-24,Towel,Power,Cut & Sew,KWH/KG,0.07,0.07,0.1,-42.86%,-42.86%,Anjar
+Nov-24,Towel,Power,Common,KWH/KG,0.25,0.25,0.36,-44.00%,-44.00%,Anjar
+Nov-24,Towel,Air,Weaving,CFM/Hrs,25064,25064,22984.39724,8.30%,8.30%,Anjar
+Nov-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,456.3793103,-18.54%,-18.54%,Anjar
+Nov-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1480.172414,6.32%,6.32%,Anjar
+Nov-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1670.551724,-11.37%,-11.37%,Anjar
+Nov-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,6.15,4.86,20.98%,20.98%,Anjar
+Nov-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,2.1,2.07,1.43%,1.43%,Anjar
+Nov-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,46.39,42.24581349,-5.51%,8.93%,Anjar
+Nov-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,2.5,0.680723749,72.77%,72.77%,Anjar
+Nov-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,14,12.33128486,11.92%,11.92%,Anjar
+Nov-24,Bedsheet,Steam,Sizing,KG/KG,1.9,1.9,1.99,-4.74%,-4.74%,Anjar
+Nov-24,Bedsheet,Steam,Processing,KG/KG,8.46,9.06,9.8,-15.84%,-8.17%,Anjar
+Nov-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0.05,0.05,0.00%,0.00%,Anjar
+Nov-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0.3,0.33,-10.00%,-10.00%,Anjar
+Nov-24,Bedsheet,Steam,TFH,KG/KG,2.21,2.21,1.822247072,17.55%,17.55%,Anjar
+Nov-24,Bedsheet,Power,Weaving,KWH/Mtr,0.74,0.82,0.755232287,-2.06%,7.90%,Anjar
+Nov-24,Bedsheet,Power,Processing,KWH/Mtr,0.2,0.2,0.19,5.00%,5.00%,Anjar
+Nov-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.11,0.11,0.06,45.45%,45.45%,Anjar
+Nov-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,23163.07793,14.49%,14.49%,Anjar
+Nov-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,267.9655172,32.16%,32.16%,Anjar
+Nov-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1716.206897,-5.94%,-5.94%,Anjar
+Nov-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,679.137931,43.41%,43.41%,Anjar
+Nov-24,Spinning,Steam,"Canteen, DG & Line Losses",,0.12,0.12,0.08,33.33%,33.33%,Anjar
+Nov-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.15,0.00%,0.00%,Anjar
+Nov-24,Spinning,Power,Open End,KWH/KG,1.19,1.26,1,15.97%,20.63%,Anjar
+Nov-24,Spinning,Power,Unit I & II,KWH/KG,4.98,4.98,4.12,17.27%,17.27%,Anjar
+Nov-24,Spinning,Power,Unit III,KWH/KG,10.68,11.24,8.97,16.01%,20.20%,Anjar
+Nov-24,Spinning,Air,Open End,CFM/Hrs,270,270,306.2142857,-13.41%,-13.41%,Anjar
+Nov-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2795.142857,9.83%,9.83%,Anjar
+Nov-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,4084.285714,-10.99%,-10.99%,Anjar
+Nov-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Nov-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Nov-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Dec-24,Towel,Water Utility,Weaving,Ltr/Kg,1.3,1.3,1.08,16.92%,16.92%,Anjar
+Dec-24,Towel,Water Utility,Sizing,Ltr/Kg,0.9,0.9,1,-11.11%,-11.11%,Anjar
+Dec-24,Towel,Water Utility,Processing,Ltr/Kg,33.5,33.5,36.21,-8.09%,-8.09%,Anjar
+Dec-24,Towel,Water Utility,Cut & Sew,Ltr/Kg,1.1,1.1,0.28,74.55%,74.55%,Anjar
+Dec-24,Towel,Water Utility,Common,Ltr/Kg,7.74,7.74,6.32,18.35%,18.35%,Anjar
+Dec-24,Towel,Steam,Sizing,KG/KG,1.15,1.16,1.78,-54.78%,-53.45%,Anjar
+Dec-24,Towel,Steam,Processing,KG/KG,5.96,6.21,6.77,-13.59%,-9.02%,Anjar
+Dec-24,Towel,Steam,"Canteen, DG & Line Losses",KG/KG,0.16,0.16,0.21,-31.25%,-31.25%,Anjar
+Dec-24,Towel,Steam,TFH,KG/KG,1.98,1.98,2.0282,-2.43%,-2.43%,Anjar
+Dec-24,Towel,Power,Weaving,KWH/KG,0.57,0.57,0.49,14.04%,14.04%,Anjar
+Dec-24,Towel,Power,Processing,KWH/KG,0.4,0.4,0.46,-15.00%,-15.00%,Anjar
+Dec-24,Towel,Power,Cut & Sew,KWH/KG,0.07,0.07,0.08,-14.29%,-14.29%,Anjar
+Dec-24,Towel,Power,Common,KWH/KG,0.25,0.25,0.31,-24.00%,-24.00%,Anjar
+Dec-24,Towel,Air,Weaving,CFM/Hrs,25064,25064,27070.45387,-8.01%,-8.01%,Anjar
+Dec-24,Towel,Air,Sizing/Warping,CFM/Hrs,385,385,489.9354839,-27.26%,-27.26%,Anjar
+Dec-24,Towel,Air,Processing,CFM/Hrs,1580,1580,1637.580645,-3.64%,-3.64%,Anjar
+Dec-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1500,1500,1755.83871,-17.06%,-17.06%,Anjar
+Dec-24,Bedsheet,Water Utility,Weaving,Ltr/Kg,6.15,6.15,4.73,23.09%,23.09%,Anjar
+Dec-24,Bedsheet,Water Utility,Sizing,Ltr/Kg,2.1,2.1,2.14,-1.90%,-1.90%,Anjar
+Dec-24,Bedsheet,Water Utility,Process,Ltr/Kg,40.04,40.04,44.76204911,-11.79%,-11.79%,Anjar
+Dec-24,Bedsheet,Water Utility,Cut & Sew,Ltr/Kg,2.5,2.5,0.381837644,84.73%,84.73%,Anjar
+Dec-24,Bedsheet,Water Utility,Common,Ltr/Kg,14,14,8.658863184,38.15%,38.15%,Anjar
+Dec-24,Bedsheet,Steam,Weaving,KG/KG,0.13,0.13,1.45,-1015.38%,-1015.38%,Anjar
+Dec-24,Bedsheet,Steam,Sizing,KG/KG,1.9,1.9,2.05,-7.89%,-7.89%,Anjar
+Dec-24,Bedsheet,Steam,Processing,KG/KG,8.46,9.69,10.31,-21.87%,-6.40%,Anjar
+Dec-24,Bedsheet,Steam,Cut & Sew,KG/KG,0.05,0.05,0.03,40.00%,40.00%,Anjar
+Dec-24,Bedsheet,Steam,Canteen and Line Loss,KG/KG,0.3,0.3,0.23,23.33%,23.33%,Anjar
+Dec-24,Bedsheet,Steam,TFH,KG/KG,2.21,2.21,1.906717472,13.72%,13.72%,Anjar
+Dec-24,Bedsheet,Power,Weaving,KWH/Mtr,0.73,0.73,0.647040856,11.36%,11.36%,Anjar
+Dec-24,Bedsheet,Power,Processing,KWH/Mtr,0.19,0.19,0.19,0.00%,0.00%,Anjar
+Dec-24,Bedsheet,Power,Cut & Sew,KWH/Mtr,0.12,0.12,0.04,66.67%,66.67%,Anjar
+Dec-24,Bedsheet,Power,Common,KWH/Mtr,0.23,0.23,0.14,39.13%,39.13%,Anjar
+Dec-24,Bedsheet,Air,Weaving,CFM/Hrs,27087,27087,24488.74258,9.59%,9.59%,Anjar
+Dec-24,Bedsheet,Air,Sizing/Warping,CFM/Hrs,395,395,319.2580645,19.18%,19.18%,Anjar
+Dec-24,Bedsheet,Air,Process,CFM/Hrs,1620,1620,1722.451613,-6.32%,-6.32%,Anjar
+Dec-24,Bedsheet,Air,Cut & Sew-Chillers/ H Plant,CFM/Hrs,1200,1200,687.2903226,42.73%,42.73%,Anjar
+Dec-24,Spinning,Air,Open End,CFM/Hrs,270,270,339.8709677,-25.88%,-25.88%,Anjar
+Dec-24,Spinning,Air,Unit I & II,CFM/Hrs,3100,3100,2908.935484,6.16%,6.16%,Anjar
+Dec-24,Spinning,Air,Unit III,CFM/Hrs,3680,3680,4054.387097,-10.17%,-10.17%,Anjar
+Dec-24,Spinning,Air,Spinning Overall,CFM,3300,3300,3846.612903,-16.56%,-16.56%,Vapi
+Dec-24,Spinning,Power,Open End,KWH/KG,1.18,1.18,1.16,1.69%,1.69%,Anjar
+Dec-24,Spinning,Power,Unit I & II,KWH/KG,4.98,4.64,4.73,5.02%,-1.94%,Anjar
+Dec-24,Spinning,Power,Unit III,KWH/KG,10.62,11.29,11.06,-4.14%,2.04%,Anjar
+Dec-24,Spinning,Power,Machine Production TFO,KWH,0.93,1.14,1.06,-13.98%,7.02%,Vapi
+Dec-24,Others,Air,Power Plant,,0,0,,0.00%,0.00%,Anjar
+Dec-24,Others,Air,"12 MW, SMS, WML & WSL",,0,0,,0.00%,0.00%,Anjar
+Dec-24,Others,Air,Advanced Textile,,0,0,,0.00%,0.00%,Anjar
+Nov-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,53.35,41.54,22.36%,22.14%,Vapi
+Nov-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,53.35,66.47572089,-25.43%,-24.60%,Vapi
+Nov-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,2.022497258,-14.27%,-14.27%,Vapi
+Nov-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,5.48,5.47,0.55%,0.18%,Vapi
+Nov-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,4.98,-24.50%,-24.50%,Vapi
+Nov-24,Towel,Power,Weaving,KWH/KG,1.17,1.19,1.249362201,-6.78%,-4.99%,Vapi
+Nov-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,1.06,1.096594993,-26.05%,-3.45%,Vapi
+Nov-24,Towel,Power,Processing,KWH/KG,0.94,0.96,1.28,-36.17%,-33.33%,Vapi
+Nov-24,Towel,Air,Weaving,CFM,8900,8900,8752,1.66%,1.66%,Vapi
+Nov-24,Towel,Air,Processing,CFM,1000,1000,1198.137931,-19.81%,-19.81%,Vapi
+Nov-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,376.1724138,-7.48%,-7.48%,Vapi
+Nov-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,54.2,39.3664,40.25%,27.37%,Vapi
+Nov-24,Rugs,Steam,Packing KG,KG/KG,4.29,3.13,3.42,20.28%,-9.27%,Vapi
+Nov-24,Rugs,Steam,Packing Pcs,KG/PCS,3.55,2.41,2.623089356,26.11%,-8.84%,Vapi
+Nov-24,Rugs,Steam,Packing SQM,KG/SQM,7.88,5.74,6.26,20.56%,-9.06%,Vapi
+Nov-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,4.39,4.709319147,10.13%,-7.27%,Vapi
+Nov-24,Rugs,Power,Processing,KWH/SQM,0.29,0.39,0.41,-41.38%,-5.13%,Vapi
+Nov-24,Rugs,Power,Cut & Sew,KWH/SQM,0.13,0.14,0.087715675,32.53%,37.35%,Vapi
+Nov-24,Rugs,Power,Coating,KWH/SQM,0.1,0.1,0.151852484,-51.85%,-51.85%,Vapi
+Nov-24,Rugs,Air,Rugs Total,CFM,850,850,897.72,-5.61%,-5.61%,Vapi
+Nov-24,Spinning,Power,Machine Production TFO,KWH,0.93,1.11,1.2,-29.03%,-8.11%,Vapi
+Nov-24,Spinning,Power,Machine Production w/o TFO,KWH,2.02,2.38,2.36,-16.83%,0.84%,Vapi
+Nov-24,Spinning,Air,Spinning Overall,CFM,3300,3300,3492.793103,-5.84%,-5.84%,Vapi
+Nov-24,Boiler,Air,Boiler,CFM,550,550,512.2068966,6.87%,6.87%,Vapi
+Dec-24,Towel,Water Utility,Processing Fabric Dyeing,Ltr/Kg,53.5,53.35,40.4,24.49%,24.27%,Vapi
+Dec-24,Towel,Water Utility,Processing Yarn Dyeing,Ltr/Kg,53,53.35,60.48116088,-14.12%,-13.37%,Vapi
+Dec-24,Towel,Steam,Sizing,KG/KG,1.77,1.77,2.319800435,-31.06%,-31.06%,Vapi
+Dec-24,Towel,Steam,Processing Fabric Dyeing,KG/KG,5.5,5.5,5.45,0.91%,0.91%,Vapi
+Dec-24,Towel,Steam,Processing Yarn Dyeing,KG/KG,4,4,5.24,-31.00%,-31.00%,Vapi
+Dec-24,Towel,Power,Weaving,KWH/KG,1.17,1.19,1.14487224,2.15%,3.79%,Vapi
+Dec-24,Towel,Power,Weaving GIDC,KWH/KG,0.87,1.06,1.024571569,-17.77%,3.34%,Vapi
+Dec-24,Towel,Power,Processing,KWH/KG,0.94,0.91,1.43,-52.13%,-57.14%,Vapi
+Dec-24,Towel,Air,Weaving,CFM,8900,8900,8746.806452,1.72%,1.72%,Vapi
+Dec-24,Towel,Air,Processing,CFM,1000,1000,1247.419355,-24.74%,-24.74%,Vapi
+Dec-24,Towel,Air,Cut & Sew-Chillers/ H Plant,CFM,350,350,374.1935484,-6.91%,-6.91%,Vapi
+Dec-24,Rugs,Water Utility,Rugs Dyeing,Ltr/Kg,65.88,47.58,33.61964286,48.97%,29.34%,Vapi
+Dec-24,Rugs,Steam,Packing KG,KG/KG,4.13,3.1,3.6,12.83%,-16.13%,Vapi
+Dec-24,Rugs,Steam,Packing Pcs,KG/PCS,3.41,2.69,3.131090141,8.18%,-16.40%,Vapi
+Dec-24,Rugs,Steam,Packing SQM,KG/SQM,7.58,6.15,7.16,5.54%,-16.42%,Vapi
+Dec-24,Rugs,Steam,Rugs Dyeing,KG/KG,5.24,3.63,4.210307272,19.65%,-15.99%,Vapi
+Dec-24,Rugs,Power,Processing,KWH/SQM,0.3,0.37,0.42,-40.00%,-13.51%,Vapi
+Dec-24,Rugs,Power,Cut & Sew,KWH/SQM,0.14,0.14,0.030207588,78.42%,78.42%,Vapi
+Dec-24,Rugs,Power,Coating,KWH/SQM,0.1,0.1,0.125410962,-25.41%,-25.41%,Vapi
+Dec-24,Rugs,Air,Rugs Total,CFM,850,850,937.1785714,-10.26%,-10.26%,Vapi
+Dec-24,Spinning,Power,Machine Production w/o TFO,KWH,2.02,2.18,2.17,-7.43%,0.46%,Vapi
+Dec-24,Spinning,Steam,"Canteen, DG & Line Losses",,0.12,0.12,0.08,33.33%,33.33%,Anjar
+Dec-24,Spinning,Steam,Xorella (Conditioning),KG/KG,0.15,0.15,0.15,0.00%,0.00%,Anjar
+Dec-24,Boiler,Air,Boiler,CFM,550,550,557.516129,-1.37%,-1.37%,Vapi
