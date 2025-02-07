@@ -1436,7 +1436,7 @@ temp_ = VannaFlaskApp(
     show_training_data=True,
     sql=True,
     table=True,
-    chart=True,
+    chart=False,
     summarization=True,
     ask_results_correct=True,
 )
