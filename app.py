@@ -13,7 +13,8 @@ from flasgger import Swagger
 from flask import Flask, Response, jsonify, request, send_from_directory
 from flask_sock import Sock
 
-from vanna.base import VannaBase
+# from vanna.base import VannaBase
+from lib.base import VannaBase
 from assets import css_content, html_content, js_content
 from auth import AuthInterface, NoAuth
 

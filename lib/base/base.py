@@ -64,9 +64,9 @@ import plotly.graph_objects as go
 import requests
 import sqlparse
 
-from ..exceptions import DependencyError, ImproperlyConfigured, ValidationError
-from ..types import TrainingPlan, TrainingPlanItem
-from ..utils import validate_config_path
+from vanna.exceptions import DependencyError, ImproperlyConfigured, ValidationError
+from vanna.types import TrainingPlan, TrainingPlanItem
+from vanna.utils import validate_config_path
 
 
 class VannaBase(ABC):
