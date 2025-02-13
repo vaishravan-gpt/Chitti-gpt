@@ -712,29 +712,85 @@ class VannaBase(ABC):
 
         return plotly_code
 
+    # def generate_plotly_code(
+    #     self, question: str = None, sql: str = None, df_metadata: str = None, **kwargs
+    # ) -> str:
+    #     if question is not None:
+    #         system_msg = f"The following is a pandas DataFrame that contains the results of the query that answers the question the user asked: '{question}'"
+    #     else:
+    #         system_msg = "The following is a pandas DataFrame "
+
+    #     if sql is not None:
+    #         system_msg += f"\n\nThe DataFrame was produced using this query: {sql}\n\n"
+
+    #     system_msg += f"The following is information about the resulting pandas DataFrame 'df': \n{df_metadata}"
+
+    #     message_log = [
+    #         self.system_message(system_msg),
+    #         self.user_message(
+    #             "Can you generate the Python plotly code to chart the results of the dataframe? Assume the data is in a pandas dataframe called 'df'. If there is only one value in the dataframe, use an Indicator. Respond with only Python code. Do not answer with any explanations -- just the code."
+    #         ),
+    #     ]
+
+    #     plotly_code = self.submit_prompt(message_log, kwargs=kwargs)
+
+    #     return self._sanitize_plotly_code(self._extract_python_code(plotly_code))
+
     def generate_plotly_code(
         self, question: str = None, sql: str = None, df_metadata: str = None, **kwargs
     ) -> str:
+        """
+        Generates Plotly visualization code based on a pandas DataFrame while ensuring:
+        - No hallucination in the graph
+        - Correct legends and axis labels
+        - Proper data representation
+
+        Args:
+            question (str): User's natural language question.
+            sql (str): SQL query used to fetch data.
+            df_metadata (str): Metadata about the pandas DataFrame.
+
+        Returns:
+            str: Generated Python Plotly code.
+        """
+
         if question is not None:
-            system_msg = f"The following is a pandas DataFrame that contains the results of the query that answers the question the user asked: '{question}'"
+            system_msg = f"The following is a pandas DataFrame that contains the results of the query that answers the user's question: '{question}'."
         else:
-            system_msg = "The following is a pandas DataFrame "
+            system_msg = "The following is a pandas DataFrame."
 
         if sql is not None:
-            system_msg += f"\n\nThe DataFrame was produced using this query: {sql}\n\n"
+            system_msg += f"\n\nThe DataFrame was produced using this SQL query: {sql}."
 
-        system_msg += f"The following is information about the resulting pandas DataFrame 'df': \n{df_metadata}"
+        # **Enhanced Prompt for Improved Chart Accuracy**
+        system_msg += f"""
+        The following is information about the resulting pandas DataFrame 'df': 
+        {df_metadata}
+        
+        **Important Rules for Generating Plotly Code:**
+        - **Use ONLY the columns in 'df'**. Do not introduce extra data or trends.
+        - **Ensure axis labels exactly match the column names** to maintain accuracy.
+        - **Always provide correct legends** when plotting multiple series.
+        - **If 'df' contains time-series data, set the X-axis correctly** with proper date formatting.
+        - **If 'df' has categorical data**, use a bar or scatter plot instead of a line chart.
+        - **If 'df' has a single numerical column**, choose a bar or line chart unless it's a single value.
+        - **If 'df' contains only one value, use an Indicator chart.**
+        - **Ensure the graph is visually clear** with proper titles and well-spaced legends.
+        - **Do NOT create additional patterns, extrapolate values, or assume missing data.**
+        - **Respond with ONLY valid Python Plotly code. Do not provide any explanations, comments, or text.**
+        """
 
         message_log = [
             self.system_message(system_msg),
             self.user_message(
-                "Can you generate the Python plotly code to chart the results of the dataframe? Assume the data is in a pandas dataframe called 'df'. If there is only one value in the dataframe, use an Indicator. Respond with only Python code. Do not answer with any explanations -- just the code."
+                "Can you generate the Python Plotly code to chart the results of the dataframe? Assume the data is in a pandas dataframe called 'df'. Ensure correct axis labels, legends, and appropriate chart selection."
             ),
         ]
 
         plotly_code = self.submit_prompt(message_log, kwargs=kwargs)
 
         return self._sanitize_plotly_code(self._extract_python_code(plotly_code))
+
 
     # ----------------- Connect to Any Database to run the Generated SQL ----------------- #
 
